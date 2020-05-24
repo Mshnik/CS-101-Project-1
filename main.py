@@ -19,6 +19,9 @@ third = ""
 fourth = ""
 
 # TODO(you) - answer the following question:
+# Note that you may need to find multiple valid sets of four
+# as well as disprove some hypotheses to find the correct answer.
+#
 # I think strings are compared by [your answer]
 
 # No need to change these.
@@ -76,7 +79,6 @@ falseFloat = None
 trueString = None
 # A string value that converts to False.
 falseString = None
-
 
 # No need to change these.
 print("Part 3 - bool(...) casting")
